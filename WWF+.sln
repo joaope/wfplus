@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WWFPlus.Activities", "WWFPlus.Activities\WWFPlus.Activities.csproj", "{A78AB1E2-1455-4CC8-812F-3E46E079DF48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WWFPlus.Activities.Tests.Unit", "WWFPlus.Activities.Tests.Unit\WWFPlus.Activities.Tests.Unit.csproj", "{9856CC6E-0EBE-4F29-AC30-CC9CCC549B5C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs35
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WWFPlus.Activities\\WWFPlus.Activities.csproj
+		SccProjectName1 = WWFPlus.Activities
+		SccLocalPath1 = WWFPlus.Activities
+		SccProjectUniqueName2 = WWFPlus.Activities.Tests.Unit\\WWFPlus.Activities.Tests.Unit.csproj
+		SccProjectName2 = WWFPlus.Activities.Tests.Unit
+		SccLocalPath2 = WWFPlus.Activities.Tests.Unit
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A78AB1E2-1455-4CC8-812F-3E46E079DF48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78AB1E2-1455-4CC8-812F-3E46E079DF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78AB1E2-1455-4CC8-812F-3E46E079DF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78AB1E2-1455-4CC8-812F-3E46E079DF48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9856CC6E-0EBE-4F29-AC30-CC9CCC549B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9856CC6E-0EBE-4F29-AC30-CC9CCC549B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9856CC6E-0EBE-4F29-AC30-CC9CCC549B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9856CC6E-0EBE-4F29-AC30-CC9CCC549B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
